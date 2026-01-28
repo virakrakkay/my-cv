@@ -1,0 +1,10 @@
+D:/Mobile/cv_project/project_cv1/build/windows/x64/CMakeFiles/INSTALL.dir
+D:/Mobile/cv_project/project_cv1/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+D:/Mobile/cv_project/project_cv1/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+D:/Mobile/cv_project/project_cv1/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/Mobile/cv_project/project_cv1/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/Mobile/cv_project/project_cv1/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+D:/Mobile/cv_project/project_cv1/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/CMakeFiles/project_cv1.dir
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir

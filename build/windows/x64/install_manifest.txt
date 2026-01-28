@@ -1,0 +1,11 @@
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/Debug/data/flutter_assets/assets/5Y0A1174.jpg
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/Mobile/cv_project/project_cv1/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
